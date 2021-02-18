@@ -1,6 +1,9 @@
 function addNumbers(a,b)
 {
 	// This is the function body. Write your code here.
+	let sum = 0;
+	sum = a + b;
+	return sum;
 }
 
 //Do not change the code below
